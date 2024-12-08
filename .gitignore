@@ -1,0 +1,23 @@
+# Build directories
+build/
+out/
+cmake-build-*/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+
+# Game data
+highscores.txt
+
+# OS-specific files
+.DS_Store
+Thumbs.db
