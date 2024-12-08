@@ -12,15 +12,15 @@ ASCII art representation of the hangman.
 
 Installation 💾
 
-Clone the repository:
+Clone the repository:  git clone https://github.com/lisan-5/hangman.git
 
-Navigate to the project directory:
+Navigate to the project directory:  cd hangman
 
-Ensure Python 3 is installed:
+Ensure Python 3 is installed:  python --version
 
 Usage 🚀
 
-Run the game from the command line:
+Run the game from the command line:  python hangman.py
 
 How to Play 🕹️
 
