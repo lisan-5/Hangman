@@ -52,7 +52,7 @@ An advanced, feature-rich implementation of the classic Hangman game, built with
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cpp-hangman.git
+https://github.com/lisan-5/hangman.git
 
 # Navigate to project directory
 cd cpp-hangman
