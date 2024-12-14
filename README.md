@@ -40,7 +40,6 @@ An advanced, feature-rich implementation of the classic Hangman game, built with
 ## 🚀 Getting Started
 
 ### Prerequisites
-
 - C++ Compiler with C++17 support
   - GCC 7+ or
   - Clang 5+ or
